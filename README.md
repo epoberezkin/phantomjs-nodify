@@ -29,9 +29,7 @@ for testing.
 How to use
 ----------
 
-Clone:
-
-    git clone git://github.com/jgonera/phantomjs-nodify.git
+npm install phantomjs-nodify --save
 
 Require in your PhantomJS script at the very first line:
 
